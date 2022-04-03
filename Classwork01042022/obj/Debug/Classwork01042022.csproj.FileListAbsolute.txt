@@ -1,0 +1,12 @@
+C:\Users\Карим\source\repos\Classwork01042022\bin\Debug\Classwork01042022.exe.config
+C:\Users\Карим\source\repos\Classwork01042022\bin\Debug\Classwork01042022.exe
+C:\Users\Карим\source\repos\Classwork01042022\bin\Debug\Classwork01042022.pdb
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.Support_Form.resources
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.Main_Form.resources
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.Properties.Resources.resources
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.exe
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.pdb
+C:\Users\Карим\source\repos\Classwork01042022\obj\Debug\Classwork01042022.Skrimerform.resources
